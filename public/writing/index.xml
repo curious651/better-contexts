@@ -2,41 +2,41 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Better Contexts</title>
-    <link>http://localhost:1313/writing/</link>
+    <link>https://example.org/writing/</link>
     <description>Recent content in Posts on Better Contexts</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2025 </copyright>
-    <lastBuildDate>Wed, 15 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/writing/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 15 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://example.org/writing/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>a-third-article</title>
-      <link>http://localhost:1313/writing/1736948698397-a-third-article/</link>
+      <link>https://example.org/writing/1736948698397-a-third-article/</link>
       <pubDate>Wed, 15 Jan 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/writing/1736948698397-a-third-article/</guid>
+      <guid>https://example.org/writing/1736948698397-a-third-article/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/writing/1736948698397-a-third-article/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://example.org/writing/1736948698397-a-third-article/featured.png" />
     </item>
     
     <item>
       <title>another-article</title>
-      <link>http://localhost:1313/writing/1736948025265-another-article/</link>
+      <link>https://example.org/writing/1736948025265-another-article/</link>
       <pubDate>Wed, 15 Jan 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/writing/1736948025265-another-article/</guid>
+      <guid>https://example.org/writing/1736948025265-another-article/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/writing/1736948025265-another-article/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://example.org/writing/1736948025265-another-article/featured.png" />
     </item>
     
     <item>
       <title>new-article</title>
-      <link>http://localhost:1313/writing/1736947294070-new-article/</link>
+      <link>https://example.org/writing/1736947294070-new-article/</link>
       <pubDate>Wed, 15 Jan 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/writing/1736947294070-new-article/</guid>
+      <guid>https://example.org/writing/1736947294070-new-article/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/writing/1736947294070-new-article/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://example.org/writing/1736947294070-new-article/featured.png" />
     </item>
     
   </channel>

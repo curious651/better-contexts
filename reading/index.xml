@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Readings on Better Contexts</title>
-    <link>http://localhost:1313/reading/</link>
+    <link>https://example.org/reading/</link>
     <description>Recent content in Readings on Better Contexts</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2025 </copyright>
-    <lastBuildDate>Wed, 15 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/reading/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 15 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://example.org/reading/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>another-book</title>
-      <link>http://localhost:1313/reading/another-book/</link>
+      <link>https://example.org/reading/another-book/</link>
       <pubDate>Wed, 15 Jan 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/reading/another-book/</guid>
+      <guid>https://example.org/reading/another-book/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/reading/another-book/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://example.org/reading/another-book/featured.png" />
     </item>
     
     <item>
       <title>new-book</title>
-      <link>http://localhost:1313/reading/new-book/</link>
+      <link>https://example.org/reading/new-book/</link>
       <pubDate>Wed, 15 Jan 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/reading/new-book/</guid>
+      <guid>https://example.org/reading/new-book/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/reading/new-book/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://example.org/reading/new-book/featured.png" />
     </item>
     
   </channel>

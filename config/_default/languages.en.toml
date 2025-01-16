@@ -1,0 +1,20 @@
+disabled = false
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "Better Contexts"
+
+[params]
+displayName = "EN"
+isoCode = "en"
+rtl = false
+dateFormat = "2 January 2006"
+description = "Learning about learning"
+logo = "skill issue.png"
+secondaryLogo = ""
+
+
+[params.author]
+author = "chris"
+bio = "trying stuff"
+headline = "striving for excellence"

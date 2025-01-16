@@ -1,0 +1,23 @@
+[[main]]
+none = "none"
+
+[[main]]
+name = "Reading"
+pageRef = "Reading"
+identifier = "RID1euWOb0"
+weight = 1
+
+[[main]]
+name = "Writing"
+pageRef = "Writing"
+identifier = "EXyGRvCamz"
+weight = 2
+
+[[main]]
+name = "Tags"
+pageRef = "tags"
+identifier = "vLMmH1iHad"
+weight = 3
+
+[[footer]]
+none = "none"
